@@ -65,3 +65,53 @@ text-decoration:line-through ;
     font-size: 40;
     text_align: center;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+ /* Container holding the image and the text */
+ .container {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  
+  /* Bottom left text */
+  .bottom-left {
+    position: absolute;
+    right: 180px;
+    top: 290px;
+  }
+  
+  /* Top left text */
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  /* Bottom right text */
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } 
