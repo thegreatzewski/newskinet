@@ -205,3 +205,14 @@ text-decoration:line-through ;
     top: 5%;
     left: 45%;
 } 
+.centered4 {
+    position: absolute;
+    top: 5%;
+    left: 45%;
+    color:yellow;
+} 
+
+.wendell{
+    color: yellow;
+    text-shadow: peachpuff;
+}
