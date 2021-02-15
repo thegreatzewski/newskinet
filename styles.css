@@ -3,13 +3,15 @@ body {
     
    }
 
-   h1 {
+h1 {
 
 font-size: 14;
 font-family: 'Courier New', Courier, monospace;
 word-spacing: 20px;
 color: orange ;
 }
+
+  
 
 a{
 color: black;
@@ -51,6 +53,17 @@ text-decoration:line-through ;
     font-weight: bold;
     text-decoration:wavy;
      
+}
+
+#links2{
+  font-family:'Courier New', Courier, monospace;
+  font-size: 13;
+  color: blue;
+  text-align:center;
+  font-weight: bold;
+  text-decoration:wavy;
+  
+   
 }
 
 #content{
@@ -106,6 +119,14 @@ text-decoration:line-through ;
 
  
  .container3 {
+    position: absolute;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    top: 100px;
+    left: 500px;
+  }
+
+  .container4 {
     position: absolute;
     text-align: center;
     color: rgb(255, 255, 255);
@@ -215,4 +236,10 @@ text-decoration:line-through ;
 .wendell{
     color: yellow;
     text-shadow: peachpuff;
+}
+
+.bottom-left3 {
+  position: absolute;
+  right: 490px;
+  top: 290px;
 }
