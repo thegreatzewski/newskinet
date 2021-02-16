@@ -95,6 +95,15 @@ text-decoration:line-through ;
     color:white;
 }
 
+#artcontent4{
+
+  font-family:'Courier New', Courier, monospace;
+  font-size: 30;
+  text_align: center;
+  color:green;
+}
+
+
 .center {
     display: block;
     margin-left: auto;
@@ -134,6 +143,15 @@ text-decoration:line-through ;
     left: 500px;
   }
   
+  .container5 {
+    position: absolute;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    top: 300px;
+    left: 900px;
+  }
+  
+
   /* Bottom left text */
   .bottom-left2 {
     position: absolute;
