@@ -14,8 +14,8 @@ color: orange ;
   
 
 a{
-color: black;
-text-decoration:line-through ;
+color: blue;
+text-decoration:underline ;
 
 }
 
@@ -39,10 +39,10 @@ text-decoration:line-through ;
     
   height:600px;
   width:1200px;
-  margin: 0px auto;
+  margin: 100px ;
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
-  font-size: 20;
+  font-size: 18;
 }
 
 .content_area2{
@@ -71,7 +71,7 @@ text-decoration:line-through ;
     font-size: 11;
     text-align: center;
     font-weight: bold;
-    text-decoration:wavy;
+    text-decoration:underline;
      
 }
 
@@ -81,7 +81,7 @@ text-decoration:line-through ;
   color: blue;
   text-align:center;
   font-weight: bold;
-  text-decoration:wavy;
+  text-decoration:underline;
   
    
 }
