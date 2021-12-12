@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(252, 252, 252);
+    background-color:rgb(247, 248, 190);
     
    }
 
@@ -8,13 +8,13 @@ h1 {
 font-size: 14;
 font-family: 'Courier New', Courier, monospace;
 word-spacing: 20px;
-color: orange ;
+color: rgb(252, 82, 82) ;
 }
 
   
 
 a{
-color: blue;
+color: rgb(212, 131, 84);
 text-decoration:underline ;
 
 }
@@ -33,6 +33,16 @@ text-decoration:underline ;
     margin-top: 30px;
     font-family:'Courier New', Courier, monospace;
     font-size: 12;
+}
+
+.content_arealong{
+    
+  height:1200px;
+  width:1200px;
+  margin: 0px auto;
+  margin-top: 30px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 12;
 }
 
 .content_areabig{
