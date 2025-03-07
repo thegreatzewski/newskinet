@@ -78,6 +78,16 @@ text-decoration:underline ;
   font-size: 18;
 }
 
+.content_areamid{
+    
+  height:200px;
+  width:1200px;
+  margin: 50px ;
+  margin-top: 1px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 18;
+}
+
 .content_area2{
     
     height:1300px;
